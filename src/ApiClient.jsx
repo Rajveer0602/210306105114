@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://localhost:5173'; 
+const API_BASE_URL = 'https://third-party-server.com/api'; 
 
 const fetchNumber = async (type) => {
   try {
